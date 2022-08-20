@@ -1,0 +1,11 @@
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\obj\Debug\MillStrategy.csproj.AssemblyReference.cache
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\obj\Debug\MillStrategy.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\obj\Debug\MillStrategy.Form1.resources
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\obj\Debug\MillStrategy.Properties.Resources.resources
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\obj\Debug\MillStrategy.csproj.GenerateResource.cache
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\obj\Debug\MillStrategy.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\bin\Debug\MillStrategy.exe.config
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\bin\Debug\MillStrategy.exe
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\bin\Debug\MillStrategy.pdb
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\obj\Debug\MillStrategy.exe
+C:\Users\daniel\Desktop\MillStrategy\MillStrategy\obj\Debug\MillStrategy.pdb
